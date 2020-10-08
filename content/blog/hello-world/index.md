@@ -27,6 +27,10 @@ You can also write code blocks here!
 const saltyDuckEgg = "chinese preserved food product"
 ```
 
+```html
+<div class="bold">Let's see how this comes up.</div>
+```
+
 | Number | Title                                    | Year |
 | :----- | :--------------------------------------- | ---: |
 | 1      | Harry Potter and the Philosopher’s Stone | 2001 |
@@ -40,6 +44,8 @@ This is a paragraph.
     This is a paragraph.
 
 # Header 1
+
+    This is a paragraph too?
 
 ## Header 2
 
